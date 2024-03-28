@@ -6,4 +6,6 @@ Teste 4
 
 teste 6
 
-Aamor eu te amo<3
+Aqui eu já estava errando o comandos
+Teste de mais um novo commit
+
